@@ -22,6 +22,7 @@ module.exports = {
     'react/jsx-filename-extension': 0,
     'react/jsx-one-expression-per-line': 0,
     'operator-linebreak': 0,
+    'linebreak-style': 0,
     'comma-dangle': [
       'error',
       {

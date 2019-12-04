@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when data is available 1`] = `
+<div
+  className="row mt-3"
+>
+  <div
+    className="col-md-12"
+  >
+    <h3>
+      High Score List
+    </h3>
+    <table
+      className="table table-striped"
+    >
+      <thead>
+        <tr>
+          <th
+            scope="col"
+          >
+            #
+          </th>
+          <th
+            scope="col"
+          >
+            Turn
+          </th>
+          <th
+            scope="col"
+          >
+            Name
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th
+            className="text-center"
+            colSpan="3"
+          >
+            No data available
+          </th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
+
+exports[`renders correctly when there are no data 1`] = `
+<div
+  className="row mt-3"
+>
+  <div
+    className="col-md-12"
+  >
+    <h3>
+      High Score List
+    </h3>
+    <table
+      className="table table-striped"
+    >
+      <thead>
+        <tr>
+          <th
+            scope="col"
+          >
+            #
+          </th>
+          <th
+            scope="col"
+          >
+            Turn
+          </th>
+          <th
+            scope="col"
+          >
+            Name
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th
+            className="text-center"
+            colSpan="3"
+          >
+            No data available
+          </th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

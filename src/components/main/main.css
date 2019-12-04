@@ -1,0 +1,12 @@
+.main-container {
+	padding: 5rem 1.5rem;
+}
+
+.media {
+  cursor: pointer;
+}
+
+.media img {
+  width: 150px;
+  height: 150px;
+}
